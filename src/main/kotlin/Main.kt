@@ -4,7 +4,7 @@ package org.example
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
     val name = "Kotlin"
-    val test = "test123423123"
+    val test = "test1"
     println("Hello, " + name + "!")
     println(test)
 
